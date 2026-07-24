@@ -85,7 +85,10 @@ Main Tables:
 
 ### Sellers
 - Top sellers contributed a major portion of revenue.
-
+  
+<p align="center">
+  <img src="dashboard.png" alt="Dashboard" width="100%">
+</p>
 # 📁 Repository Structure
 
 ```text
