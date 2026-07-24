@@ -21,7 +21,12 @@ The project demonstrates an end-to-end Business Analyst workflow:
 - Compare Payment Methods
 - Track Order Status
 - Support Business Decisions
+  
+## 📥 Power BI Dashboard
 
+Download the Power BI Dashboard (.pbix):
+
+[Download Power BI Dashboard](https://drive.google.com/file/d/1lEwOxbkHImR4HzA2kZLcn5Cf9JGcPuBG/view?usp=sharing)
 # 🗂 Dataset
 **Source:** Kaggle - Olist Brazilian E-Commerce Dataset
 Main Tables:
